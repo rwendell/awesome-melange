@@ -29,7 +29,7 @@ About this section. Optional. Keep this short and focus on the list.
   - [Zellij](https://github.com/zellij-org/zellij)
 
 ## Other
- - [GoWall](https://github.com/Achno/gowall) (depedent on [this pr](https://github.com/Achno/gowall/pull/56))
+ - [GoWall](https://github.com/Achno/gowall) as of ([`a39c075`](https://github.com/Achno/gowall/commit/a39c075a4e3afd0bfb6e46b57072657484271731))
 ## Contribute
 
 Contributions are welcome!
