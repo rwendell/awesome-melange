@@ -29,7 +29,7 @@ About this section. Optional. Keep this short and focus on the list.
   - [Zellij](https://github.com/zellij-org/zellij)
 
 ## Other
-
+ - [GoWall](https://github.com/Achno/gowall) (depedent on [this pr](https://github.com/Achno/gowall/pull/56))
 ## Contribute
 
 Contributions are welcome!
