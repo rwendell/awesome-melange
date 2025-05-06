@@ -2,6 +2,12 @@
 
 > A curated list of resources for the Melange colorscheme by [savq](https://github.com/savq)
 
+<img src="https://github.com/user-attachments/assets/f2ad8046-271c-43aa-b6e2-f2cd93a264ea" width="500"/>
+
+<img src="https://github.com/user-attachments/assets/b6acf7d0-4bb7-4687-abe3-737096cea4e8" width="500"/>
+
+
+
 ## Contents
 
 - [Web Browser](#web-browser)
