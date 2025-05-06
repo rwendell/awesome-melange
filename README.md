@@ -1,28 +1,34 @@
 # awesome-list [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
 
-[![Buy Me A Coffee](https://srv-cdn.himpfen.io/badges/buymeacoffee/buymeacoffee-flat.svg)](https://tinyurl.com/2h9aktmd) &nbsp; [![Ko-Fi](https://srv-cdn.himpfen.io/badges/kofi/kofi-flat.svg)](https://tinyurl.com/d4xnrptz) &nbsp; [![PayPal](https://srv-cdn.himpfen.io/badges/paypal/paypal-flat.svg)](https://tinyurl.com/mr22naua) &nbsp; [![Stripe](https://srv-cdn.himpfen.io/badges/stripe/stripe-flat.svg)](https://tinyurl.com/e8ymxdw3)
-
-> A curated list of resources for
+> A curated list of resources for Melange by [savq](https://github.com/savq)
 
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
+- [Web Browser](#web-browser)
+- [Code Editors](#code-editors)
+- [Other](#Other)
 
-## Section
+## Web Browser
 
 About this section. Optional. Keep this short and focus on the list.
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+- [Firefox (dark)](https://addons.mozilla.org/en-GB/firefox/addon/melange-theme/) by [Jarvis](https://addons.mozilla.org/en-GB/firefox/user/17518366/)
+- [Firefox (light)](https://addons.mozilla.org/en-GB/firefox/user/13358296/)( by [AC](https://addons.mozilla.org/en-GB/firefox/user/13358296/)
 
-## Another Section
+## Code Editors
+- [Neovim](https://github.com/savq/melange-nvim)
+## Terminal
+### Works Out of the Box
+  - [Alacritty](https://github.com/alacritty/alacritty)
+  - [Foot](https://codeberg.org/dnkl/foot)
+  - [Ghostty](https://ghostty.org/docs)
+  - [Kitty](https://github.com/kovidgoyal/kitty)
+  - [Terminator](https://github.com/gnome-terminator/terminator)
+  - [Wezterm](https://github.com/wez/wezterm)
+  - [iTerm2](https://github.com/gnachman/iTerm2)
+  - [Zellij](https://github.com/zellij-org/zellij)
 
-### Subsection
-
-- [List item](http://example.com)
-- [List item](http://example.com)
-
+## Other
 
 ## Contribute
 
