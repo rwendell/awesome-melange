@@ -1,6 +1,6 @@
 # awesome-list [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
 
-> A curated list of resources for Melange by [savq](https://github.com/savq)
+> A curated list of resources for the Melange colorscheme by [savq](https://github.com/savq)
 
 ## Contents
 
