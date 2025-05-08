@@ -1,0 +1,19 @@
+scheme: "Melange Light"
+author: "rwendell"
+base00: "F1F1F1"  # Default Background
+base01: "E9E1DB"  # Darker Background (UI elements for light theme)
+base02: "D9D3CE"  # Selection, UI Muted
+base03: "A98A78"  # Comments, Deemphasized Text
+base04: "7D6658"  # Secondary Foreground
+base05: "54433A"  # Main Foreground
+base06: "54433A"  # Darker Foreground
+base07: "54433A"  # Darkest Text
+
+base08: "BF0021"  # Red (Melange Bright Red)
+base09: "BC5C00"  # Orange (Melange Yellow)
+base0A: "A06D00"  # Yellow (Melange Bright Yellow)
+base0B: "3A684A"  # Green (Melange Bright Green)
+base0C: "3D6568"  # Cyan (Melange Bright Cyan)
+base0D: "465AA4"  # Blue (Melange Bright Blue)
+base0E: "904180"  # Magenta (Melange Bright Magenta)
+base0F: "C77B8B"  # Brown/Misc (Melange Red)
